@@ -25,3 +25,4 @@ from .cuckoo_quantum_particle_swarm_opt import CuckooQuantumParticleSwarmOpt
 from .marine_predators_alg import MarinePredatorsAlg
 from .rime_opt_alg import RimeOptAlg
 from .moss_growth_opt import MossGrowthOpt
+from .crow_drinking_water_alg import CrowDrinkingWaterAlg
